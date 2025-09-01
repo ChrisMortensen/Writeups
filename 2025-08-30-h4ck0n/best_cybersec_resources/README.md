@@ -1,4 +1,4 @@
-# Web Vulnerabilities 1
+# Best Cybersec Resources
 ## Introduction
 We get the following:
 * [ZIP-file](deliverables.zip) 
