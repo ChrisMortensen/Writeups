@@ -2,3 +2,4 @@
 
 ### Table of contents
 * [grandmas_notes (web)](grandmas_notes)
+* [pwgen (web)](pwgen)
