@@ -1,4 +1,4 @@
-#  The Agreement
+#  The Agreement (web)
 ## Introduction
 Please accept the agreement.
 
