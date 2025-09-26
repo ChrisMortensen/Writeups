@@ -1,6 +1,6 @@
 # 07CTF 2025
 
 ### Table of contents
-* [a-star-is-born (misc)](a-star-is-born)
-* [camel-in-mumbai (forensics)](camel-in-mumbai)
-* [the-agreement (web)](the-agreement)
+* [A star is born - Misc](a-star-is-born)
+* [Camel in mumbai - Forensics](camel-in-mumbai)
+* [The agreement - Web](the-agreement)
