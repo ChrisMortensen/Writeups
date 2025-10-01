@@ -69,12 +69,7 @@ Well done! That was Base 64, super common for encoding data in email and web tra
 
 ### Base 85
 ```text
-<~:2+3L+EqaECEXg"BOQ!*G@>P86=FqH+?250+EqL5@qZupDf'',+DG^9A8,XfATD@"F<Ga8EbSs"FE9
-&W<+ohc6"FnCAM6>j@qfX:2'@'NEbSs"F<G^IF^]*&Gp%0M@<-I2+EqOABHTEd+CT.u+D#G$F!,[@FD)
-eG4t[sWBOr;a7RJ:Q3ANE6G%#E*@;^00F`V,8+CQC%Ec5AsATAo%CiF&r@V'X(.!]`R+DkP4+EM+*+Cf
-(nEa`I"ATDi7Ch[Zr+FYja?n<FI/0JkO+FP[k+A$/fH#IhG+Co%nDe*F"+Cf>,E,8rsDK?q/@W-C2+DG
-_:@;KXg+EMgF@W-((/0K"XBlmiu+EV:.+@9LXAN2OiG%#E*@;^0>+@^0UB0%/ICggt'@5K\q@:_,Q2D[
-<IA2uM-1h/C&AN)S+@P_LS2.U<.I/~>
+<~:2+3L+EqaECEXg"BOQ!*G@>P86=FqH+?250+EqL5@qZupDf'',+DG^9A8,XfATD@"F<Ga8EbSs"FE9&W<+ohc6"FnCAM6>j@qfX:2'@'NEbSs"F<G^IF^]*&Gp%0M@<-I2+EqOABHTEd+CT.u+D#G$F!,[@FD)eG4t[sWBOr;a7RJ:Q3ANE6G%#E*@;^00F`V,8+CQC%Ec5AsATAo%CiF&r@V'X(.!]`R+DkP4+EM+*+Cf(nEa`I"ATDi7Ch[Zr+FYja?n<FI/0JkO+FP[k+A$/fH#IhG+Co%nDe*F"+Cf>,E,8rsDK?q/@W-C2+DG_:@;KXg+EMgF@W-((/0K"XBlmiu+EV:.+@9LXAN2OiG%#E*@;^0>+@^0UB0%/ICggt'@5K\q@:_,Q2D[<IA2uM-1h/C&AN)S+@P_LS2.U<.I/~>
 ```
 ```text
 Nice work! That was Base 85, which comes in different variants. The Adobe/Ascii85 variant usually starts with <~ and ends with ~>. The RFC 1924 variant uses a broader alphabet (you may see characters like ~, `, {, or }). If your decoder complains about invalid symbols, switch the Base85 variant. Flag: REDACTED
