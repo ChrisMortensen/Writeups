@@ -12,9 +12,15 @@ Picture seems to be inversed so lets fix that.
 
 ![non-inverse.jpg](non-inverse.jpg)
 
-Seems like there is a hidden QR-code
+Seems like there is a hidden QR-code. A phone can not pick it up. So we need to isolate it.
+
+Lets try using Gimp to find differences between this photo and the original. We find the original online in the same resolution (900x900). From here we make each of them their own layer in Gimp and change the top layer to `differences`. This doesnt seem to work properly.
+
+I believe the afformentioned way was the intended solution. But since it does not work lets take the time to paint in the QR-code ourselves.
 
 ![qr.png](qr.png)
+
+Scanning the code provides the flag. This can be done online or using your phone.
 
 ## Flag
 <details>
