@@ -7,7 +7,7 @@ Sorry. You know every CTF has to have it. 🤷
 ## Investigation
 RFC 9309 is the Robots Exclusion Protocol. So lets go investigate in `/robots.txt`.
 
-````text
+```text
 User-Agent: *
 Disallow: /
 ```
