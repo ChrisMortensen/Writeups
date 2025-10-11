@@ -7,3 +7,4 @@
 * [RFC 9309](rfc-9309)
 * [Spam Test](spam-test)
 * [OFA](ofa)
+* [Snooze](snooze)
