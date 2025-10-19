@@ -15,9 +15,7 @@ Since its a website lets have a look.
 
 ![main-page.png](main-page.png)
 
-I wouldn't expect the challenge to lie so im not going to check paths like `/robots.txt` and move on to presented challenge.
-
-We can use the constant formatting. The fomatting inclueds the flag: `1session=stable; secret_flag=; note=1`. Having the same substring before compression should result in fewer bytes after compression. So we can include the part of the flag we know in our query. 
+We can use the fact that it is using constant formatting. The fomatting inclueds the flag: `1session=stable; secret_flag=; note=1`. Having the same substring before compression should result in fewer bytes after compression. So we can include the part of the flag we know in our query. 
 
 From here we can guess a single character at at time by trying all possible chars and comparing their compressed lengths. The shortest must be the correct next character since the substrings would overlap. So we add this to our known part of the flag and continue this process until we reach a `}`, marking the end of the flag. 
 
