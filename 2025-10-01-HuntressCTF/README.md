@@ -1,4 +1,4 @@
-# HuntressCTF 2025 
+# Huntress CTF 2025 
 
 ### Table of contents
 * [Cover All Your Bases](cover-all-your-bases)
